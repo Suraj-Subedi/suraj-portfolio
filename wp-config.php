@@ -22,30 +22,30 @@
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 
-//HEROKAU DATABASE INFORMATION
-define('DB_NAME', 'bs31wgdsuorxe3rvfl6h');
-
-/** Database username */
-define('DB_USER', 'uesnurqilex6dh9j');
-
-/** Database password */
-define('DB_PASSWORD', 'YJBphh8pnDonfsnjspCF');
-
-/** Database hostname */
-define('DB_HOST', 'bs31wgdsuorxe3rvfl6h-mysql.services.clever-cloud.com');
-
-
-
-// define('DB_NAME', 'portfolio');
+// //HEROKAU DATABASE INFORMATION
+// define('DB_NAME', 'bs31wgdsuorxe3rvfl6h');
 
 // /** Database username */
-// define('DB_USER', 'root');
+// define('DB_USER', 'uesnurqilex6dh9j');
 
 // /** Database password */
-// define('DB_PASSWORD', '');
+// define('DB_PASSWORD', 'YJBphh8pnDonfsnjspCF');
 
 // /** Database hostname */
-// define('DB_HOST', 'localhost');
+// define('DB_HOST', 'bs31wgdsuorxe3rvfl6h-mysql.services.clever-cloud.com');
+
+
+
+define('DB_NAME', 'portfolio');
+
+/** Database username */
+define('DB_USER', 'root');
+
+/** Database password */
+define('DB_PASSWORD', '');
+
+/** Database hostname */
+define('DB_HOST', 'localhost');
 
 /** Database charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
